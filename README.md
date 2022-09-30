@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devaraj T S</h1>
 <h3 align="center">A passionate Backend java developer ready to learn any new skills to upgrade myself.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devrajts&label=Profile%20views&color=0e75b6&style=flat" alt="devrajts" /> </p>
+
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java,Javascript,mysql**
